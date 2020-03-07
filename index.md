@@ -1,13 +1,13 @@
 
-### Gaurav Jotwani
+## Gaurav Jotwani
 
-Hello - welcome to my github bio page !
+### Hello - welcome to my github bio page !
 I am an engineering team lead at <a href="https://shipwire.com/">Shipwire Inc.</a> in Santa Clara, CA.
 
-Shipwire's commerce solutions enable rapid growth through drop shipping and connections to major retail channels.
+### Shipwire's commerce solutions enable rapid growth through drop shipping and connections to major retail channels.
 <a href="https://www.ingrammicroservices.com/">Ingram Micro</a> leverages the Shipwire Platform to power commerce and fulfillment solutions worldwide.
 
-Prior to working in e-commerce with Shipwire I was in electronic publishing and library management systems at Alexander Street, a ProQuest Company in the Washington D.C. Metropolitan area.
+### Prior to working in e-commerce with Shipwire I was in electronic publishing and library management systems at <a href="https://alexanderstreet.com/">Alexander Street, a ProQuest Company</a> in the Washington D.C. Metropolitan area.
 
 ```markdown
 Syntax highlighted code block
