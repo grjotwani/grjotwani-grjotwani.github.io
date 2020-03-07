@@ -1,7 +1,11 @@
 
 ### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Hello - welcome to my github bio page !
+I am an engineer at Shipwire Inc.
+Our commerce solutions enable rapid growth through drop shipping and connections to major retail channels.
+Ingram Micro leverages the Shipwire Platform to power commerce and fulfillment solutions worldwide.
+
 
 ```markdown
 Syntax highlighted code block
