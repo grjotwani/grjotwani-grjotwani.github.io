@@ -2,7 +2,7 @@
 ### Gaurav Jotwani
 
 Hello - welcome to my github bio page !
-I am an engineer at Shipwire Inc. </br></br>
+I am an engineer at <a href="https://shipwire.com">Shipwire Inc.</a></br>
 Our commerce solutions enable rapid growth through drop shipping and connections to major retail channels.</br>
 Ingram Micro leverages the Shipwire Platform to power commerce and fulfillment solutions worldwide.
 
