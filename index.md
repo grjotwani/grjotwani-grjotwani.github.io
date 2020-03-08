@@ -5,15 +5,17 @@ Shipwire's commerce solutions enable rapid growth through drop shipping and conn
 
 Prior to working in e-commerce with Shipwire I was in electronic publishing and library management systems at <a href="https://alexanderstreet.com/">Alexander Street, a ProQuest Company</a> in the Washington D.C. Metropolitan area.
 
-```markdown
-Syntax highlighted code block
-
 # Header 1
 ## Header 2
 ### Header 3
 
+```markdown
 - Bulleted
 - List
+- Collaborate with API tools team and product management to develop quarterly team roadmap.<br/>
+- Establish standards and checkpoints to monitor progress, communicate updates, keep self and others accountable.<br/>
+- Identify team contributions to the overall vision and strategy of the organization.
+- Help nurture automated testing skills and promote best practices related to code reviews, regression testing, agile scrum activities within the team.
 
 1. Numbered
 2. List
