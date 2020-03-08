@@ -1,4 +1,4 @@
-# Gaurav Jotwani <br/> - engineering team lead at <a href="https://shipwire.com/">Shipwire Inc.</a>
+# Gaurav Jotwani <br/> - engg. team lead @ <a href="https://shipwire.com/">Shipwire</a>
 
 # Technical Skills
 # Personal Projects
