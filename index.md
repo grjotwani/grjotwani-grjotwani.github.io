@@ -15,7 +15,10 @@ Prior to working in e-commerce with Shipwire I was in electronic publishing and 
 - **Motivation** : Identify team contributions to the overall vision and strategy of the organization.
 - **Mentorship** : Help nurture automated testing skills and promote best practices related to code reviews, regression testing, agile scrum activities within the team.
 
-## Personal Projects and topics of interest
+## Personal interest topics
+- https://github.com/quii/learn-go-with-tests
+- https://github.com/GoesToEleven/go-programming
+- Kubernetes hands-on https://www.udemy.com/course/learn-kubernetes/learn/lecture/10744462
 
 ## Professional experience
 - Senior Software Engineer, Shipwire Inc Santa Clara, CA Feb 2017 — Present
