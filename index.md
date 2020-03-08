@@ -1,7 +1,9 @@
 # I am an engineering team lead at <a href="https://shipwire.com/">Shipwire Inc.</a> in Santa Clara, CA.
+# Technical Skills
+# Personal Projects
 # Professional experience
 # Leadership Skills
-# Technical Skills
+# Education
 
 
 Shipwire's commerce solutions enable rapid growth through drop shipping and connections to major retail channels.
