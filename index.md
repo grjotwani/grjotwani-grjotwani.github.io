@@ -13,6 +13,32 @@ Prior to working in e-commerce with Shipwire I was in electronic publishing and 
 - Integrity : Establish standards and checkpoints to monitor progress, communicate updates, keep self and others accountable.
 - Motivation : Identify team contributions to the overall vision and strategy of the organization.
 - Mentorship : Help nurture automated testing skills and promote best practices related to code reviews, regression testing, agile scrum activities within the team.
+
+- Collaborattion : Collaborate with API tools team and product management to develop quarterly team roadmap.
+- Integrity : Establish standards and checkpoints to monitor progress, communicate updates, keep self and others accountable.
+- Motivation : Identify team contributions to the overall vision and strategy of the organization.
+- Mentorship : Help nurture automated testing skills and promote best practices related to code reviews, regression testing, agile scrum activities within the team.
+
+- Collaborattion : Collaborate with API tools team and product management to develop quarterly team roadmap.
+- Integrity : Establish standards and checkpoints to monitor progress, communicate updates, keep self and others accountable.
+- Motivation : Identify team contributions to the overall vision and strategy of the organization.
+- Mentorship : Help nurture automated testing skills and promote best practices related to code reviews, regression testing, agile scrum activities within the team.
+
+- Collaborattion : Collaborate with API tools team and product management to develop quarterly team roadmap.
+- Integrity : Establish standards and checkpoints to monitor progress, communicate updates, keep self and others accountable.
+- Motivation : Identify team contributions to the overall vision and strategy of the organization.
+- Mentorship : Help nurture automated testing skills and promote best practices related to code reviews, regression testing, agile scrum activities within the team.
+
+- Collaborattion : Collaborate with API tools team and product management to develop quarterly team roadmap.
+- Integrity : Establish standards and checkpoints to monitor progress, communicate updates, keep self and others accountable.
+- Motivation : Identify team contributions to the overall vision and strategy of the organization.
+- Mentorship : Help nurture automated testing skills and promote best practices related to code reviews, regression testing, agile scrum activities within the team.
+
+- Collaborattion : Collaborate with API tools team and product management to develop quarterly team roadmap.
+- Integrity : Establish standards and checkpoints to monitor progress, communicate updates, keep self and others accountable.
+- Motivation : Identify team contributions to the overall vision and strategy of the organization.
+- Mentorship : Help nurture automated testing skills and promote best practices related to code reviews, regression testing, agile scrum activities within the team.
+
 ```
 
 # Personal Projects
@@ -20,5 +46,6 @@ Prior to working in e-commerce with Shipwire I was in electronic publishing and 
 # Education
 M.S. Computer Science (University of Southern California)2008 — 2010
 B.E. Information Technology (University of Mumbai, India)2004 — 2008
+
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
