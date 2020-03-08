@@ -1,5 +1,3 @@
-# Gaurav Jotwani - engg. team lead @ <a href="https://shipwire.com/">Shipwire</a>
-
 Shipwire's commerce solutions enable rapid growth through drop shipping and connections to major retail channels.
 <a href="https://www.ingrammicroservices.com/">Ingram Micro</a> leverages the Shipwire Platform to power commerce and fulfillment solutions worldwide.
 
