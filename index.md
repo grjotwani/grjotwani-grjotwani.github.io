@@ -44,8 +44,11 @@ Prior to working in e-commerce with Shipwire I was in electronic publishing and 
 # Personal Projects
 # Professional experience
 Senior Software Engineer, Shipwire Inc Santa Clara, CA Feb 2017 — Present
-
 Software Engineer, Shipwire Inc. Santa Clara, CA April 2015 — Jan 2017
+
+Senior Software Engineer, Alexander Street Press Alexandria, VA Nov 2014 — March 2015
+Software Developer, Alexander Street Press June 2010 — Oct 2014
+
 
 # Education
 M.S. Computer Science (University of Southern California)2008 — 2010
