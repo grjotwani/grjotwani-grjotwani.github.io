@@ -43,8 +43,13 @@ Prior to working in e-commerce with Shipwire I was in electronic publishing and 
 
 # Personal Projects
 # Professional experience
+Senior Software Engineer, Shipwire Inc Santa Clara, CA Feb 2017 — Present
+
+Software Engineer, Shipwire Inc. Santa Clara, CA April 2015 — Jan 2017
+
 # Education
 M.S. Computer Science (University of Southern California)2008 — 2010
+
 B.E. Information Technology (University of Mumbai, India)2004 — 2008
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
