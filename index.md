@@ -1,4 +1,5 @@
-# I am an engineering team lead at <a href="https://shipwire.com/">Shipwire Inc.</a> in Santa Clara, CA.
+# Gaurav Jotwani - engineering team lead at <a href="https://shipwire.com/">Shipwire Inc.</a>
+
 # Technical Skills
 # Personal Projects
 # Professional experience
