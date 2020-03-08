@@ -7,10 +7,10 @@ Prior to working in e-commerce with Shipwire I was in electronic publishing and 
 
 # Technical Skills
 # Leadership Skills
-- Collaborattion : Collaborate with API tools team and product management to develop quarterly team roadmap.
-- Integrity : Establish standards and checkpoints to monitor progress, communicate updates, keep self and others accountable.
-- Motivation : Identify team contributions to the overall vision and strategy of the organization.
-- Mentorship : Help nurture automated testing skills and promote best practices related to code reviews, regression testing, agile scrum activities within the team.
+- **Collaboration** : Collaborate with API tools team and product management to develop quarterly team roadmap.
+- **Integrity** : Establish standards and checkpoints to monitor progress, communicate updates, keep self and others accountable.
+- **Motivation** : Identify team contributions to the overall vision and strategy of the organization.
+- **Mentorship** : Help nurture automated testing skills and promote best practices related to code reviews, regression testing, agile scrum activities within the team.
 
 # Personal Projects
 # Professional experience
