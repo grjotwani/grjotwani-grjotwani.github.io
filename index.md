@@ -1,7 +1,8 @@
 # I am an engineering team lead at <a href="https://shipwire.com/">Shipwire Inc.</a> in Santa Clara, CA.
-## I am an engineering team lead at <a href="https://shipwire.com/">Shipwire Inc.</a> in Santa Clara, CA.
-### I am an engineering team lead at <a href="https://shipwire.com/">Shipwire Inc.</a> in Santa Clara, CA.
-#### I am an engineering team lead at <a href="https://shipwire.com/">Shipwire Inc.</a> in Santa Clara, CA.
+# Professional experience
+# Leadership Skills
+# Technical Skills
+
 
 Shipwire's commerce solutions enable rapid growth through drop shipping and connections to major retail channels.
 <a href="https://www.ingrammicroservices.com/">Ingram Micro</a> leverages the Shipwire Platform to power commerce and fulfillment solutions worldwide.
