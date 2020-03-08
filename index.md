@@ -1,16 +1,12 @@
 # Gaurav Jotwani - engg. team lead @ <a href="https://shipwire.com/">Shipwire</a>
 
-# Technical Skills
-# Personal Projects
-# Professional experience
-# Leadership Skills
-# Education
-
-
 Shipwire's commerce solutions enable rapid growth through drop shipping and connections to major retail channels.
 <a href="https://www.ingrammicroservices.com/">Ingram Micro</a> leverages the Shipwire Platform to power commerce and fulfillment solutions worldwide.
 
 Prior to working in e-commerce with Shipwire I was in electronic publishing and library management systems at <a href="https://alexanderstreet.com/">Alexander Street, a ProQuest Company</a> in the Washington D.C. Metropolitan area.
+
+# Technical Skills
+# Leadership Skills
 
 ```markdown
 - Collaborattion : Collaborate with API tools team and product management to develop quarterly team roadmap.
@@ -19,5 +15,10 @@ Prior to working in e-commerce with Shipwire I was in electronic publishing and 
 - Mentorship : Help nurture automated testing skills and promote best practices related to code reviews, regression testing, agile scrum activities within the team.
 ```
 
+# Personal Projects
+# Professional experience
+# Education
+M.S. Computer Science (University of Southern California)2008 — 2010
+B.E. Information Technology (University of Mumbai, India)2004 — 2008
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
