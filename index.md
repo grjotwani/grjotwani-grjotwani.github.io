@@ -12,13 +12,11 @@ Prior to working in e-commerce with Shipwire I was in electronic publishing and 
 ```markdown
 - Bulleted
 - List
-- Collaborate with API tools team and product management to develop quarterly team roadmap.<br/>
-- Establish standards and checkpoints to monitor progress, communicate updates, keep self and others accountable.<br/>
-- Identify team contributions to the overall vision and strategy of the organization.
-- Help nurture automated testing skills and promote best practices related to code reviews, regression testing, agile scrum activities within the team.
+- Collaborattion : Collaborate with API tools team and product management to develop quarterly team roadmap.
+- Integrity : Establish standards and checkpoints to monitor progress, communicate updates, keep self and others accountable.
+- Motivation : Identify team contributions to the overall vision and strategy of the organization.
+- Mentorship : Help nurture automated testing skills and promote best practices related to code reviews, regression testing, agile scrum activities within the team.
 
-1. Numbered
-2. List
 
 **Bold** and _Italic_ and `Code` text
 
