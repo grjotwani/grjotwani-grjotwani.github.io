@@ -1,7 +1,7 @@
 
-## Gaurav Jotwani
-
-### Hello - welcome to my github bio page !
+<p align="center">
+  ## Gaurav Jotwani
+  </p>
 #### I am an engineering team lead at <a href="https://shipwire.com/">Shipwire Inc.</a> in Santa Clara, CA.
 
 Shipwire's commerce solutions enable rapid growth through drop shipping and connections to major retail channels.
