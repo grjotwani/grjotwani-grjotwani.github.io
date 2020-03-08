@@ -6,6 +6,10 @@ Shipwire's commerce solutions enable rapid growth through drop shipping and conn
 Prior to working in e-commerce with Shipwire I was in electronic publishing and library management systems at <a href="https://alexanderstreet.com/">Alexander Street, a ProQuest Company</a> in the Washington D.C. Metropolitan area.
 
 # Technical Skills
+- Languages & Web Technologies : PHP, Golang
+- Development Tools : Docker, Xdebug, Blackfire, PHP CodeSniffer, Git, Composer, PHPStorm, Goland
+- Testing Frameworks : PHPUnit, Selenium, Symfony Fixtures Bundle
+- Database Technologies : Solr, MySQL, MongoDB
 # Leadership Skills
 - **Collaboration** : Collaborate with API tools team and product management to develop quarterly team roadmap.
 - **Integrity** : Establish standards and checkpoints to monitor progress, communicate updates, keep self and others accountable.
