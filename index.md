@@ -1,7 +1,7 @@
-Shipwire's commerce solutions enable rapid growth through drop shipping and connections to major retail channels.
+I am an engineering team lead at Shipwire whose commerce solutions enable rapid growth through drop shipping and connections to major retail channels.
 <a href="https://www.ingrammicroservices.com/">Ingram Micro</a> leverages the Shipwire Platform to power commerce and fulfillment solutions worldwide.
 
-Prior to working in e-commerce with Shipwire I was in electronic publishing and library management systems at <a href="https://alexanderstreet.com/">Alexander Street, a ProQuest Company</a> in the Washington D.C. Metropolitan area.
+Before e-commerce, I worked in electronic publishing and library management systems at <a href="https://alexanderstreet.com/">Alexander Street, a ProQuest Company</a> in the Washington D.C. Metropolitan area.
 
 ## Technical Skills
 - Languages & Web Technologies : PHP, Golang
