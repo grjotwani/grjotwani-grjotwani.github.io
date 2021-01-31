@@ -21,8 +21,9 @@ Before e-commerce, I worked in electronic publishing and library management syst
 - Kubernetes hands-on https://www.udemy.com/course/learn-kubernetes/learn/lecture/10744462
 
 ## Professional experience
-- Senior Software Engineer, Shipwire Inc Santa Clara, CA Feb 2017 — Present
-- Software Engineer, Shipwire Inc. Santa Clara, CA April 2015 — Jan 2017
+- Team Lead Principal Engineer, Shipwire Inc Apr 2020 — Mar 2020
+- Senior Software Engineer, Shipwire Inc Feb 2017 — Mar 2020
+- Software Engineer, Shipwire Inc. April 2015 — Jan 2017
 
 - Senior Software Engineer, Alexander Street Press Alexandria, VA Nov 2014 — March 2015
 - Software Developer, Alexander Street Press June 2010 — Oct 2014
